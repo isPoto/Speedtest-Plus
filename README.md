@@ -21,7 +21,7 @@ If you are using speedtest on your browser, you need to open the speedtest page,
 
 ​
 
-[Download for Win](https://t.me/PotoChannel/169)
+[Sponsor Poto!](https://ko-fi.com/ispoto)
 
 ​​
 
@@ -78,9 +78,6 @@ You can join Poto Channel and Poto Group on Telegram. Poto Channel will post Spe
 
 Poto Channel & Group is not limited to topics, so there may be some content you don't like, so be sure to let Poto know, Poto wants to know what you think.
 
-
-
-[Sponsor Poto!](https://ko-fi.com/ispoto)
 
 
 
