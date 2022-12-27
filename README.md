@@ -50,6 +50,7 @@ You can drag and drop to move it around, double click on the speed test result t
 ​
 
 You can right-click on a speed test result to copy it or save it as an image file.
+After saving, it will automatically locate the image of your speed test result in Explorer
 
 ![image](https://user-images.githubusercontent.com/59009389/209684211-a91e53e0-3e79-49f9-b170-d41403c2dcb7.png)
 
