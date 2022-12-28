@@ -21,7 +21,7 @@ You will be very comfortable using Speedtest+. Run Speedtest+ and you can do oth
 If you are using speedtest on your browser, you need to open the speedtest page, wait for it to load (the network may not be very good in your environment), and then click the start button. Speedtest takes time, but you want to do other things than waste your time and energy staring at a boring speed test process, you need to pay attention to whether the speed test is complete and then switch back to the speedtest page, you may want to take a screenshot and share it with others, but the troublesome screenshot selection may make the image contain some ugly edges. speedtest+ takes all that hassle away from you. Speedtest+ focuses on your experience and only cares about how to make you care less about the speed test process, you only want the results, Speedtest+ understands you, Poto understands you.
 
 ​
-<a href="https://ko-fi.com/ispoto" target="blank"><img border="0" src="https://user-images.githubusercontent.com/59009389/209853872-e562f173-651c-4442-8db5-57cf5b3d0d1e.png" alt="Sponsor Poto" title="Sponsor Poto"></a>
+<a href="https://ko-fi.com/ispoto" target="_blank"><img border="0" src="https://user-images.githubusercontent.com/59009389/209853872-e562f173-651c-4442-8db5-57cf5b3d0d1e.png" alt="Sponsor Poto" title="Sponsor Poto"></a>
 
 ​​
 
