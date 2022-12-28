@@ -14,7 +14,7 @@ I want Speedtest+ to be the best Internet speed test tool in your eyes, and I'll
 
 ​​
 
-Speedtest+ has no ads and is built for your experience. Poto strives for the ultimate user experience design. You can see very cool graphical results and easily copy or save speed test results to easily share your internet speed.
+Speedtest+ has no ads and is built for your experience. Poto strives for the ultimate user experience design. You can see very cool graphical results and easily copy or save speed test results to easily share your internet speed. Speedtest+ is portable software that you use directly, without installation.
 
 ![image](https://user-images.githubusercontent.com/59009389/209684150-20e1b381-0088-43f0-8cbc-5306e0328924.png)
 
@@ -34,18 +34,18 @@ If you are using speedtest on your browser, you need to open the speedtest page,
 
 Usage
 
-Extract the files in Speedtest+ByPotoVersion**.zip to a new blank folder, such as the Speedtest+ folder.
+Extract the files in SpeedtestPlusByPotoVersion**.zip to a new blank folder, such as the SpeedtestPlus folder.
 
 
 
-Double click to run Speedtest+.exe, wait a while, the waiting time may be long.
+Double click to run SpeedtestPlus.exe, wait a while, the waiting time may be long.
 
 ![image](https://user-images.githubusercontent.com/59009389/209684176-0f5fb063-7014-4ce5-bc8f-3266acded892.png)
 
 
 
 
-When the speed test is complete, it will place your speed test results on the screen.
+When the speed test is complete, it will make your speed test results topmost.
 
 ![image](https://user-images.githubusercontent.com/59009389/209684194-8b6b27bb-512e-4a6a-927b-932dd3c52b88.png)
 
@@ -79,7 +79,7 @@ Hovering over the neon speaker icon will display the current Speedtest+ version 
 
 
 
-You can join Poto Channel and Poto Group on Telegram. Poto Channel will post Speedtest+ update news, and you can give feedback on Speedtest+ UX design issues or other ideas you have in Poto Group. poto looks forward to working with you to build the best Speedtest+ software.
+You can join Poto Channel and Poto Group on Telegram. Poto Channel will post Speedtest+ update news, and you can give feedback on Speedtest+ UX design issues or other ideas you have in Poto Group. Poto looks forward to working with you to build the best Speedtest+ software.
 
 Poto Channel & Group is not limited to topics, so there may be some content you don't like, so be sure to let Poto know, Poto wants to know what you think.
 
@@ -109,5 +109,8 @@ So Poto doesn't get money from it, but it takes a lot of money to build a websit
 Poto is poor, so Poto can't do automatic updates of the software, it has to release the software and version updates through Telegram.
 
 You need to get software version updates through Poto Channel and manually download the new version to complete the override. You can also download and use the new version and delete the old one, and the software developed by Poto is portable, so you don't need to install it and can delete it directly, which is very convenient.
+
+Poto Channel https://t.me/PotoChannel
+Poto Group https://t.me/PotoGroup
 
 ​
