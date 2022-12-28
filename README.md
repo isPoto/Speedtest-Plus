@@ -6,6 +6,7 @@ I want Speedtest+ to be the best Internet speed test tool in your eyes, and I'll
 
 ![image](https://user-images.githubusercontent.com/59009389/209684141-2753f001-a9e1-473f-a793-850030fea284.png)
 
+[Download for Win](https://github.com/isPoto/Speedtest-Plus/releases)
 
 Speedtest+ has no ads and is built for your experience. Poto strives for the ultimate user experience design. You can see very cool graphical results and easily copy or save speed test results to easily share your internet speed.
 
@@ -84,8 +85,19 @@ Poto Channel & Group is not limited to topics, so there may be some content you 
 
 Q&A
 
+1.Why does my antivirus software reported that this is dangerous software?
 
-1.How to check the new version and Why don't you provide the official website and download access?
+There are many antivirus programs and companies in the world, and Poto cannot submit software registration one by one. So the software developed by Poto is not registered for antivirus software, and will therefore be judged as intrusted by antivirus software. This is a misunderstanding.
+
+Please think independently whether you want to use the software developed by Poto.
+
+You can also submit the software developed by Poto to the antivirus software you are using for evaluation.
+
+You may still not trust Poto, and that's okay. You can [sponsor Poto](https://ko-fi.com/ispoto). free is the most expensive, and all the distrust and security threats are because of the interest. When you pay for this, you can also rest assured.
+
+
+
+2.How to check the new version?
 
 The software is free to use.
 
@@ -94,9 +106,5 @@ So Poto doesn't get money from it, but it takes a lot of money to build a websit
 Poto is poor, so Poto can't do automatic updates of the software, it has to release the software and version updates through Telegram.
 
 You need to get software version updates through Poto Channel and manually download the new version to complete the override. You can also download and use the new version and delete the old one, and the software developed by Poto is portable, so you don't need to install it and can delete it directly, which is very convenient.
-
-Poto will consider extending Github and other mirror downloads.
-
-But the official way remains the Poto Channel on Telegram, unless Poto finds a better way. Please let Poto know if you have any good suggestions!
 
 ​
