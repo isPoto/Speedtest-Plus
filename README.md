@@ -1,4 +1,4 @@
-# Speedtest-Plus
+# Speedtest+
 
 Speedtest+ is a Speedtest-based Internet speed test tool developed by Poto. 
 
