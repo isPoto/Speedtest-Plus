@@ -4,7 +4,9 @@ I want Speedtest+ to be the best Internet speed test tool in your eyes, and I'll
 
 ![image](https://user-images.githubusercontent.com/59009389/209684141-2753f001-a9e1-473f-a793-850030fea284.png)
 
-[Download for Win](https://github.com/isPoto/Speedtest-Plus/releases)
+​
+<a href="https://github.com/isPoto/Speedtest-Plus/releases" target="blank"><img border="0" src="https://user-images.githubusercontent.com/59009389/209811676-4efe1313-5e2a-476c-856b-537c7ba196e7.png" alt="Download for Win" title="Download for Win"></a>
+​
 
 Speedtest+ has no ads and is built for your experience. Poto strives for the ultimate user experience design. You can see very cool graphical results and easily copy or save speed test results to easily share your internet speed.
 
@@ -46,7 +48,6 @@ When the speed test is complete, it will place your speed test results on the sc
 
 You can drag and drop to move it around, double click on the speed test result to exit Speedtest+.
 
-​
 
 You can right-click on a speed test result to copy it or save it as an image file.
 After saving, it will automatically locate the image of your speed test result in Explorer
@@ -74,11 +75,9 @@ Hovering over the neon speaker icon will display the current Speedtest+ version 
 
 You can join Poto Channel and Poto Group on Telegram. Poto Channel will post Speedtest+ update news, and you can give feedback on Speedtest+ UX design issues or other ideas you have in Poto Group. poto looks forward to working with you to build the best Speedtest+ software.
 
-​
-
 Poto Channel & Group is not limited to topics, so there may be some content you don't like, so be sure to let Poto know, Poto wants to know what you think.
 
-
+​
 
 
 Q&A
