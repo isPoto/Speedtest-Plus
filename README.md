@@ -112,6 +112,7 @@ You need to get software version updates through Poto Channel and manually downl
 
 Poto Channel https://t.me/PotoChannel
 ​
+
 Poto Group https://t.me/PotoGroup
 
 ​
