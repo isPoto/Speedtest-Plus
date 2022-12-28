@@ -111,7 +111,6 @@ Poto is poor, so Poto can't do automatic updates of the software, it has to rele
 You need to get software version updates through Poto Channel and manually download the new version to complete the override. You can also download and use the new version and delete the old one, and the software developed by Poto is portable, so you don't need to install it and can delete it directly, which is very convenient.
 
 Poto Channel https://t.me/PotoChannel
-​
 
 Poto Group https://t.me/PotoGroup
 
