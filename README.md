@@ -1,13 +1,3 @@
-<script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
-<script>
-  kofiWidgetOverlay.draw('ispoto', {
-    'type': 'floating-chat',
-    'floating-chat.donateButton.text': 'Support me',
-    'floating-chat.donateButton.background-color': '#00b9fe',
-    'floating-chat.donateButton.text-color': '#fff'
-  });
-</script>
-
 Speedtest+ is a Speedtest-based Internet speed test enhancement tool developed by Poto. 
 
 I want Speedtest+ to be the best Internet speed test tool in your eyes, and I'll work hard for that.
@@ -125,3 +115,13 @@ Poto Channel [https://t.me/PotoChannel](https://t.me/PotoChannel)
 Poto Group [https://t.me/PotoGroup](https://t.me/PotoGroup)
 
 ​
+
+<script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
+<script>
+  kofiWidgetOverlay.draw('ispoto', {
+    'type': 'floating-chat',
+    'floating-chat.donateButton.text': 'Sponsor Poto',
+    'floating-chat.donateButton.background-color': '#00b9fe',
+    'floating-chat.donateButton.text-color': '#fff'
+  });
+</script>
