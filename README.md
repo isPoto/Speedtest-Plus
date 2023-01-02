@@ -30,6 +30,8 @@ If you are using speedtest on your browser, you need to open the speedtest page,
 
 <a href="https://ko-fi.com/ispoto" target="_blank"><img border="0" src="https://user-images.githubusercontent.com/59009389/209853872-e562f173-651c-4442-8db5-57cf5b3d0d1e.png" alt="Sponsor Poto" title="Sponsor Poto"></a>
 
+<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Sponsor Poto', '#fb5c73', 'S6S3GKGWB');kofiwidget2.draw();</script>
+
 ​​
 
 Usage
